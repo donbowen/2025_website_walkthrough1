@@ -2,10 +2,6 @@
 
 I am an awesome student at Lehigh, you should hire me!
 
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/website_headshot.jg" width="50%">
-</p>
-
 ---
 
 ## Portfolio
