@@ -16,6 +16,14 @@ You can show off your midterm analysis by moving the report components and outpu
 
 ---
 
+_**[Regression Interpretation](subpages/RegInterp)**_
+
+This is my exercise file from when I learned about how to interpret regressions. 
+
+<img src="subpages/output_34_0?raw=true"/>
+
+---
+
 _**[Regression Practice](Regression_practice)**_
 
 Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
